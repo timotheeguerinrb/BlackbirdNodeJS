@@ -20,9 +20,9 @@ var screen = blessed.screen();
 require('ansicolor').nice;
 
 let GDAX = {
-    key: '283b131a9b6930dd2b8f9634eb2c6ced',
-    secret: 'tIaSDHiw8scCUZDNyu9MIP6rgDmcQl2VWU8gfD++LtBfY+BWO+MY0FozM+b0rKRqx8BnlhSPWH8/6wHDltGvRA==',
-    password: '88vwpik621l'
+    key: '',
+    secret: '',
+    password: ''
 }
 
 let params = {
