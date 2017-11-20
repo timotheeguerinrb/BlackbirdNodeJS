@@ -1,0 +1,20 @@
+{
+  "name": "arbitragesoftjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "as-table": "^1.0.31",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "ccxt": "^1.9.224",
+    "log4js": "^2.3.10",
+    "ololog": "^1.1.68",
+    "underscore": "^1.8.3"
+  }
+}
